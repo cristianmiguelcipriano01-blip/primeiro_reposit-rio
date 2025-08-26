@@ -1,6 +1,7 @@
 # primeiro_reposit-rio
 criei minha primeira pasta
-# Olá, eu sou o cristian 👋
+# Olá, eu sou o cristian 👋<img width="528" height="450" alt="image" src="https://github.com/user-attachments/assets/0dd34855-91ef-4e7d-bd79-f0fcda166923" />
+
 
 ## Sobre mim
 Sou um estudante apaixonado por **Python** e estou iniciando minha jornada na programação. Meu objetivo é crescer como desenvolvedor e ingressar na área de tecnologia, contribuindo com projetos e aprendendo cada vez mais.
