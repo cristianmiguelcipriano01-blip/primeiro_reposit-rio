@@ -4,22 +4,13 @@ criei minha primeira pasta
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFzZzE4ejVqdHc3d2YzNGt1bmh3NWlveHU5ODR1Z2l1bTJobG0zeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNI0R3x281Qbcj48eC/giphy.gif" alt="Sans dando um sorriso">
 
 ## Sobre mim
-Sou um estudante apaixonado por **Python** e estou iniciando minha jornada na programação. Meu objetivo é crescer como desenvolvedor e ingressar na área de tecnologia, contribuindo com projetos e aprendendo cada vez mais.
-
-## Habilidades
-- Linguagem Python 🐍
-- Estruturas de dados e algoritmos básicos
-- Desenvolvimento de scripts e automações
-- Conhecimento inicial em bibliotecas como:
-  - `requests`
-  - `pandas`
-  - `matplotlib`
-- Controle de versão com Git e GitHub
+gosto de anime⛩️👹⚔️,jogar🎮 e treinar👌
+animal fav:furão,coruja🦉e gato😸
+Sou um estudante,contribuindo com projetos e aprendendo cada vez mais sobre o python.
 
 ## Projetos
-Aqui estão alguns dos meus projetos pessoais que você pode conferir no meu GitHub:
-- [Projeto 1](link_do_projeto) — Pequena descrição do que ele faz.
-- [Projeto 2](link_do_projeto) — Pequena descrição do que ele faz.
+aprender python completamente😉
+virar um programador de respéito
 
 ## O que estou buscando
 - Aprender com a comunidade de desenvolvedores
@@ -27,10 +18,5 @@ Aqui estão alguns dos meus projetos pessoais que você pode conferir no meu Git
 - Estágio ou oportunidade para desenvolver habilidades práticas
 
 ## Contato
-- 📫 Me envie um email: seuemail@email.com
-- 💬 LinkedIn: [Seu LinkedIn](link_do_linkedin)
-- 🐙 GitHub: [Seu GitHub](https://github.com/seuusuario)
-
----
-
+- 📫 Me envie um email
 Obrigado por visitar meu perfil! Vamos programar juntos? 🚀
