@@ -1,7 +1,7 @@
 # primeiro_reposit-rio
 criei minha primeira pasta
 # Olá, eu sou o cristian 🙏😜
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p2ZmdmZ2FneG1sNmtnODNzcHU5aWR5N3hvNHhqajRxMGtsbDE0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNI0R3x281Qbcj48eC/giphy.gif
+![Sans GIF](assets/sans-smile.gif)
 
 ## Sobre mim
 Sou um estudante apaixonado por **Python** e estou iniciando minha jornada na programação. Meu objetivo é crescer como desenvolvedor e ingressar na área de tecnologia, contribuindo com projetos e aprendendo cada vez mais.
@@ -34,4 +34,3 @@ Aqui estão alguns dos meus projetos pessoais que você pode conferir no meu Git
 ---
 
 Obrigado por visitar meu perfil! Vamos programar juntos? 🚀
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p2ZmdmZ2FneG1sNmtnODNzcHU5aWR5N3hvNHhqajRxMGtsbDE0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNI0R3x281Qbcj48eC/giphy.gif
