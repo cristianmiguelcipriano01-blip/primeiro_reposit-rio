@@ -1,7 +1,7 @@
 # primeiro_reposit-rio
 criei minha primeira pasta
 # Olá, eu sou o cristian 🙏😜
-![Sans GIF](assets/sans-smile.gif)
+[Sans GIF](assets/sans-smile.gif)
 
 ## Sobre mim
 Sou um estudante apaixonado por **Python** e estou iniciando minha jornada na programação. Meu objetivo é crescer como desenvolvedor e ingressar na área de tecnologia, contribuindo com projetos e aprendendo cada vez mais.
